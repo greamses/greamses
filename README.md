@@ -1,254 +1,144 @@
-<!-- Dark theme with enhanced visuals -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2239&height=200&section=header&text=Emmanuel%20Daniel&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20UI/UX%20Enthusiast%20|%20Creative%20Technologist&descAlignY=60&descAlign=62" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building+elegant+experiences;Performance-driven+development;Creative+code+solutions;Accessible+%26+responsive+design" alt="Typing SVG" />
-</div>
-
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0A2239?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A2239?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanueldaniel)
-  [![Twitter](https://img.shields.io/badge/Twitter-0A2239?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/youremmanuel)
-  [![Email](https://img.shields.io/badge/Email-0A2239?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
+# Emmanuel Daniel
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emmanueldaniel.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@emmanueldaniel.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanueldaniel-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emmanueldev)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Specialist;JavaScript+Expert;Creative+Problem+Solver" alt="Typing SVG" />
+
 </div>
+
+<p align="center">
+  <em>Crafting pixel-perfect, accessible web experiences with modern technologies</em>
+</p>
 
 <br>
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=F5F5F5&icon_color=38BDF8&hide_border=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=F5F5F5&icon_color=38BDF8&hide_border=true&count_private=true" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&hide_border=true" />
-  </picture>
-</div>
+<details open>
+<summary><h2>✨ About Me</h2></summary>
+<p>
+I'm a passionate <b>Frontend Developer</b> with 5+ years of experience building responsive web applications. I specialize in creating intuitive user interfaces with clean, maintainable code. My approach combines technical expertise with design sensibility to deliver products that are both functional and beautiful.
 
----
-
-## <div align="center">💫 About Me</div>
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-I'm a passionate **Web Developer** with a focus on building clean, responsive, and engaging digital interfaces. I blend creativity and code to bring ideas to life, ensuring every project I touch is accessible, fast, and visually compelling.
-
-<br/>
-
-> With experience developing apps for educational platforms, children-focused interfaces, and tech-driven businesses, I bring **both logic and design** to the table.
-
-<br/>
-
-```javascript
-const emmanuel = {
-  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
-  tools: ['React', 'Next.js', 'Vue', 'Tailwind', 'Node'],
-  challenge: "I'm constantly pushing the boundaries of what's possible on the web",
-  focus: "Creating interfaces that are both beautiful and functional"
-};
-```
-
----
-
-## <div align="center">🛠️ Skills & Technologies</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass&perline=3" />
-        </div>
-      </td>
-      <td valign="top" width="50%">
-        <h3 align="center">Backend & Tools</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,git,github,figma,netlify,vercel&perline=3" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<details>
-  <summary><b>📊 Expand to view more skills</b></summary>
-  <br/>
-  
-  <div align="center">
-    <h3>UI/UX Design</h3>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  </div>
-  
-  <div align="center">
-    <h3>Development Tools</h3>
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  </div>
+When I'm not coding, you can find me contributing to open-source projects, mentoring junior developers, or exploring new web technologies.
+</p>
 </details>
 
 ---
 
-## <div align="center">🚀 Featured Projects</div>
+## 🛠️ Technical Stack
 
 <div align="center">
-  <a href="https://github.com/yourusername/practice-ground">
-    <img width="49%" src="https://dummyimage.com/600x300/0A2239/ffffff&text=Practice+Ground" alt="Practice Ground"/>
-  </a>
-  <a href="https://github.com/yourusername/birthright-academy">
-    <img width="49%" src="https://dummyimage.com/600x300/0A2239/ffffff&text=BirthRight+Academy" alt="BirthRight Academy"/>
-  </a>
+
+### Core Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Styling & Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+### Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+
 </div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/yourusername/fraction-story">
-    <img width="49%" src="https://dummyimage.com/600x300/0A2239/ffffff&text=Fraction+Story+App" alt="Fraction Story App"/>
-  </a>
-  <a href="https://github.com/yourusername/clock-sync">
-    <img width="49%" src="https://dummyimage.com/600x300/0A2239/ffffff&text=Clock+Sync" alt="Clock Sync"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-daniel&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-daniel&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-daniel&theme=radical" alt="GitHub Streak" height="170" />
 </div>
 
-<br/>
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/emmanuel-daniel/quiz-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuel-daniel&repo=quiz-app&theme=radical" />
+</a>
+<a href="https://github.com/emmanuel-daniel/e-learning-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuel-daniel&repo=e-learning-platform&theme=radical" />
+</a>
+
+</div>
 
 <details>
-  <summary><b>📂 View Project Details</b></summary>
+<summary><h3>Interactive Quiz Platform</h3></summary>
+<p>
+A dynamic quiz application with real-time scoring, topic filtering, and responsive design. Built with React and TypeScript.
 
-  ### Practice Ground
-  An intelligent quiz and test platform with real-time result tracking, filtering by topics, and clean UI for learners.
+> **Tech Stack:** React, TypeScript, Tailwind CSS, Node.js
+</p>
+</details>
 
-  ```
-  ├── HTML5 for semantic structure
-  ├── Custom CSS animations and transitions
-  ├── Vanilla JavaScript for filtering logic
-  └── Local storage for saving progress
-  ```
+<details>
+<summary><h3>E-Learning Management System</h3></summary>
+<p>
+Comprehensive learning platform with course management, progress tracking, and admin dashboard.
 
-  ### BirthRight Academy Website
-  A modern, multi-level school website showcasing classes, testimonials, and administration with responsive mobile-first design.
-
-  ```
-  ├── Mobile-first responsive design
-  ├── Tailwind CSS for styling
-  ├── JavaScript interactions
-  └── Optimized image loading
-  ```
-
-  ### Fraction Story App
-  A vibrant web app designed to help kids understand fractions using fun stories, animations, and voice integration.
-
-  ```
-  ├── Web Speech API integration
-  ├── Interactive animations with Anime.js
-  ├── Custom canvas implementations
-  └── Kid-friendly UI/UX
-  ```
-
-  ### Clock Sync
-  An educational project showcasing synchronization between analog and digital clocks in real time, with draggable interface.
-
-  ```
-  ├── SVG manipulation
-  ├── Real-time synchronization
-  ├── Draggable interface
-  └── Precision timing with JavaScript
-  ```
+> **Tech Stack:** Next.js, MongoDB, GraphQL, Chakra UI
+</p>
 </details>
 
 ---
 
-## <div align="center">📊 GitHub Analytics</div>
+## 📝 Latest Blog Posts
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=F5F5F5&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=F5F5F5&hide_border=true" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## <div align="center">📌 What I Value</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="left" width="50" src="https://img.icons8.com/fluency/48/000000/code.png">
-        <h3>Clean Code & Scalable Design</h3>
-        <p>Building maintainable codebases that scale with your needs.</p>
-      </td>
-      <td>
-        <img align="left" width="50" src="https://img.icons8.com/fluency/48/000000/layout.png">
-        <h3>Creative UI/UX with Purpose</h3>
-        <p>Interfaces that look good and solve real user problems.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="50" src="https://img.icons8.com/fluency/48/000000/speed.png">
-        <h3>Performance-Optimized Builds</h3>
-        <p>Fast-loading applications that don't keep users waiting.</p>
-      </td>
-      <td>
-        <img align="left" width="50" src="https://img.icons8.com/fluency/48/000000/universal-access.png">
-        <h3>Accessible, Responsive Web Apps</h3>
-        <p>Designing for everyone, on every device.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- Latest blog posts or project updates will be displayed here -->
-## <div align="center">📝 Latest Blog Posts</div>
 <!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically populated with your latest blog posts using GitHub Actions -->
+- [Optimizing React Performance with useMemo and useCallback](https://emmanueldaniel.dev/blog/react-optimization)
+- [Building Accessible Web Applications: A Complete Guide](https://emmanueldaniel.dev/blog/web-accessibility)
+- [TypeScript Best Practices for Frontend Developers](https://emmanueldaniel.dev/blog/typescript-tips)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## <div align="center">📫 Connect With Me</div>
+## 🏅 Certifications
+
+- **Google Professional Frontend Developer Certification** (2023)
+- **AWS Certified Developer - Associate** (2022)
+- **Scrum Master Certified** (2021)
+
+---
 
 <div align="center">
-  <a href="https://linkedin.com/in/emmanueldaniel"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/youremmanuel"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2239&height=100&section=footer" />
+  <h2>🌐 Connect With Me</h2>
+  
+  <a href="https://emmanueldaniel.dev">
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:hello@emmanueldaniel.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/emmanueldaniel-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/emmanueldev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=emmanuel-daniel&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  
+  <br>
+  
+  <blockquote>
+    <p align="center"><em>"Code is poetry when written with intention and care."</em></p>
+  </blockquote>
 </div>
