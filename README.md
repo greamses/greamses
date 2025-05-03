@@ -51,9 +51,6 @@ What sets me apart is my attention to detail, eagerness to learn, and ability to
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <br/>
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Responsive_Design-025E8C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive Design" />
   <img src="https://img.shields.io/badge/Accessibility-0288D1?style=for-the-badge&logo=a11y&logoColor=white" alt="Accessibility" />
 </p>
@@ -152,14 +149,6 @@ What sets me apart is my attention to detail, eagerness to learn, and ability to
 - Created responsive layouts and implemented design changes
 - Gained practical experience with JavaScript and CSS frameworks
 - Participated in team meetings and agile development processes
-
-<hr>
-
-## 🌱 Open Source Contributions
-
-- Contributed documentation improvements to React community projects
-- Fixed accessibility issues in open-source UI component libraries
-- Participated in Hacktoberfest 2023, merging 4 pull requests
 
 <hr>
 
